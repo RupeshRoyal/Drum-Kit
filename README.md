@@ -1,4 +1,4 @@
-# Drum-Kit
+# Drum-Kit WEBSITE IS LIVE AT https://rupeshroyal.github.io/Drum-Kit/
 
 The code sets up the basic structure and content of the Drum Kit web application. The associated CSS and JavaScript files linked to provide styling and interactivity to the Drum Kit.
 
