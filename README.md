@@ -10,7 +10,7 @@ The CSS code sets various styles for the HTML elements, including text alignment
 
 -->HTML Structure:
 
-The HTML code represents the structure of a web page for a Drum Kit application. It includes a heading (<h1>), drum buttons (<button>), a set container (<div class="set">), and a footer (<footer>).
+The HTML code represents the structure of a web page for a Drum Kit application. It includes a heading , drum buttons , a set container , and a footer .
 
 -->JavaScript Logic:
 The JavaScript code performs the following operations:
